@@ -28,3 +28,7 @@
 ***
 #### 3. Алгоритмы
 ***
+- Добавление поста (setpost.php)
+***
+![](https://github.com/Argoleed/Forum/blob/main/setpost.png)
+***
