@@ -46,3 +46,4 @@
 ![](https://github.com/Argoleed/Forum/blob/main/API.png)
 ***
 ***
+#### 5. Пользовательские сценарии работы
