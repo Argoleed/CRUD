@@ -32,3 +32,7 @@
 ***
 ![](https://github.com/Argoleed/Forum/blob/main/setpost.png)
 ***
+-Добавление комментария (setcomment.php)
+***
+![](https://github.com/Argoleed/Forum/blob/main/setcomment.png)
+***
