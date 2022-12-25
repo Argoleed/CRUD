@@ -36,3 +36,8 @@
 ***
 ![](https://github.com/Argoleed/Forum/blob/main/setcomment.png)
 ***
+- Лайк/Дизлайк (add_emoji.php)
+***
+![](https://github.com/Argoleed/Forum/blob/main/add_emoji.png)
+***
+***
